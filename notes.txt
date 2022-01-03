@@ -1,0 +1,12 @@
+-A class is template to make objects
+- Methods are functions inside the class
+- Primitive Vs objects
+-- Primitives: int, double, char, boolean, float, long, byte, short
+---- value is directly in box
+---- can't invoke methods on them
+---- can't be null ( but can use wrapper class)
+---- Objects: String, Point, shape, any class you write yourself, ...
+------- references( arrow) to object,
+------- can invoke methods, access fields with dot
+------- can be null
+------- == checks if arrows point at some object

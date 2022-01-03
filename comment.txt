@@ -1,0 +1,21 @@
+General comment structure:
+General description of function.
+Parametes:
+a - first input parameter, named a
+b - second input parameter, named b
+returns:
+descritipn of return value
+e.g
+parameters:
+sides- the number of a dice
+Returns:
+random roll value (an int)
+/**Returns the absolute value of an int value. If the argument is not negative, the argument
+/* is returned. If the argument is negative, the negation of the argument is returned.
+/*
+/* @return the absolute value of the argument.
+*/
+
+Generated Java documentation for the rollDice(int sides) function:
+
+rollDice javaDoc
